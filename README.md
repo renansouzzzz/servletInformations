@@ -24,3 +24,8 @@ Tomcat é um tipo de programa em JavaScript que define como essas solicitações
   sudo tar xf apache-tomcat-9.0.74.tar.gz -C /opt/tomcat
 ```
 
+
+#
+
+#### (este conteúdo é de estudo da plataforma Coursera)  
+#### > Desenvolvimento ágil c/ Java avançado
